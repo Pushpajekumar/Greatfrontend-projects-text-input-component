@@ -14,7 +14,7 @@ At a high level, completing each challenge involves the following steps:
 
 1. Start the challenge from the challenge page.
 2. Understand the challenge's functional and visual requirements.
-3. Download starter code (optional), reference designs. For the best experience, obtain access to the Figma files.
+3. Download starter code (optional)s, reference designs. For the best experience, obtain access to the Figma files.
 4. Set up your coding environment and GitHub repository.
 5. Develop using your preferred technology stack while referencing the designs, style guides, and any provided guides.
 6. Ask for help if necessary.
